@@ -53,3 +53,15 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+npm-debug.log
+.DS_Store
+
+*.js.map
+app/**/*.js
+hooks/
+lib/
+node_modules/
+platforms/
+tmp/
+typings/
+report/
